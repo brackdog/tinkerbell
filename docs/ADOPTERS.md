@@ -62,4 +62,11 @@ Use this template in the [Adopters List](#adopters-list) section:
 - **Contacts**:
   - CNCF Slack: @Jacob Weinstock
 
+### Rackdog
 
+- **Description**: Bare-metal platform providing on-demand server provisioning and infrastructure automation.
+- **Usage**: Tinkerbell is used to provision and manage bare-metal servers across multiple locations.
+- **Links**:
+  - [API Documentation](https://rackdog.readme.io/reference)
+- **Contacts**:
+  - CNCF Slack: @Burke Butler
